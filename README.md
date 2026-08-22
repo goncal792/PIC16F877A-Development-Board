@@ -34,7 +34,8 @@ O desenvolvimento do projeto envolveu:
 
 O esquemático eletrônico foi desenvolvido no **KiCad** e contempla os circuitos necessários para funcionamento e utilização da plataforma.
 
-**Imagem do esquemático será adicionada aqui.**
+<img width="816" height="564" alt="Esquema" src="https://github.com/user-attachments/assets/a56c7fe9-d09a-4d96-b955-c6b9d10e1b5e" />
+
 
 ---
 
@@ -42,7 +43,8 @@ O esquemático eletrônico foi desenvolvido no **KiCad** e contempla os circuito
 
 Após o desenvolvimento do esquemático, foi realizado o posicionamento dos componentes e roteamento da placa de circuito impresso.
 
-**Imagem do layout da PCB será adicionada aqui.**
+<img width="407" height="664" alt="layout" src="https://github.com/user-attachments/assets/efbb9435-0424-45db-982b-539b343a8516" />
+
 
 ---
 
@@ -50,7 +52,7 @@ Após o desenvolvimento do esquemático, foi realizado o posicionamento dos comp
 
 O modelo 3D foi utilizado para visualizar a disposição final dos componentes e o aspecto físico da placa antes de uma eventual fabricação.
 
-**Imagem do modelo 3D será adicionada aqui.**
+<img width="465" height="677" alt="3D" src="https://github.com/user-attachments/assets/bc7c4387-7b0a-45c5-b731-985f020888b4" />
 
 ---
 
